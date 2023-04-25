@@ -1,0 +1,5 @@
+# Ignore too large zip file for GitHub (more than 100MB)
+BrainTumorDataPublic-1.zip
+BrainTumorDataPublic-2.zip
+BrainTumorDataPublic-3.zip
+BrainTumorDataPublic-4.zip
