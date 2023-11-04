@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "deep-learning-project"
+version = "0.1.0"
+description = "\"Academic project on deep learning\""
+authors = ["RIAUX <adrien.riaux@efrei.net>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "~3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
