@@ -13,4 +13,4 @@ You will find mainly supervised learning in the different projects. Advanced mac
 
 ## Contact information
 
-You can contact me on LinkdIn or using my email address: adrien.riaux@efrei.net
+You can contact me on [LinkdIn](https://www.linkedin.com/in/adrien-riaux/) or using my email address: adrien.riaux@efrei.net
